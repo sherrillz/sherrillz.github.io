@@ -2,270 +2,294 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sherrillz.github.io/english/</loc>
+    <loc>http://localhost:1313/english/</loc>
     <lastmod>2024-11-04T11:58:53-08:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://sherrillz.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://sherrillz.github.io/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sherrillz.github.io/"
-                />
-  </url><url>
-    <loc>https://sherrillz.github.io/tags/index/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/english/post/how_to_git/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/post/how_to_git/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/tags/notes/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/english/post/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/post/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>https://sherrillz.github.io/tags/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-04T11:58:53-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sherrillz.github.io/zh-cn/tags/"
+                href="http://localhost:1313/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://sherrillz.github.io/cn/tags/"
+                href="http://localhost:1313/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sherrillz.github.io/tags/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://sherrillz.github.io/awards/</loc>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/post/how_to_git/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/how_to_git/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/notes/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/post/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://localhost:1313/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
+    <lastmod>2022-12-08T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
+    <lastmod>2022-12-08T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/awards/</loc>
+    <loc>http://localhost:1313/english/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/certifications/</loc>
+    <loc>http://localhost:1313/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/certifications/</loc>
+    <loc>http://localhost:1313/english/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/demo/</loc>
+    <loc>http://localhost:1313/tags/demo/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/shortcode/</loc>
+    <loc>http://localhost:1313/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/notice-shortcode/</loc>
+    <loc>http://localhost:1313/english/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/notice-shortcode/</loc>
+    <loc>http://localhost:1313/post/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/series/</loc>
+    <loc>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
+    <lastmod>2021-12-10T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
+    <lastmod>2021-12-10T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/post/tableau-team-project-of-travel-data/</loc>
+    <lastmod>2021-12-07T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/tableau-team-project-of-travel-data/</loc>
+    <lastmod>2021-12-07T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
+    <lastmod>2021-12-02T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
+    <lastmod>2021-12-02T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sherrillz.github.io/zh-cn/series/"
+                href="http://localhost:1313/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://sherrillz.github.io/cn/series/"
+                href="http://localhost:1313/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sherrillz.github.io/series/"
+                href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/series-part-2/</loc>
+    <loc>http://localhost:1313/english/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/series-part-2/</loc>
+    <loc>http://localhost:1313/post/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/series/series-setup/</loc>
+    <loc>http://localhost:1313/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/series-part-1/</loc>
+    <loc>http://localhost:1313/english/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/series-part-1/</loc>
+    <loc>http://localhost:1313/post/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/redirect/</loc>
+    <loc>http://localhost:1313/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/redirect/</loc>
+    <loc>http://localhost:1313/english/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/redirect/</loc>
+    <loc>http://localhost:1313/post/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/redirecturl/</loc>
+    <loc>http://localhost:1313/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/figure-shortcode/</loc>
+    <loc>http://localhost:1313/english/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/figure-shortcode/</loc>
+    <loc>http://localhost:1313/post/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/</loc>
+    <loc>http://localhost:1313/arabic/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/archives/</loc>
+    <loc>http://localhost:1313/arabic/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/archives/</loc>
+    <loc>http://localhost:1313/english/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://sherrillz.github.io/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://sherrillz.github.io/cn/categories/"
+                href="http://localhost:1313/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sherrillz.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://sherrillz.github.io/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/html/</loc>
+    <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/markdown-syntax/</loc>
+    <loc>http://localhost:1313/english/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/markdown-syntax/</loc>
+    <loc>http://localhost:1313/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/categories/syntax/</loc>
+    <loc>http://localhost:1313/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/categories/themes/</loc>
+    <loc>http://localhost:1313/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/series/themes-guide/</loc>
+    <loc>http://localhost:1313/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/privacy/</loc>
+    <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/rich-content/</loc>
+    <loc>http://localhost:1313/english/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/rich-content/</loc>
+    <loc>http://localhost:1313/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/placeholder-text/</loc>
+    <loc>http://localhost:1313/english/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/placeholder-text/</loc>
+    <loc>http://localhost:1313/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/text/</loc>
+    <loc>http://localhost:1313/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/contact/</loc>
+    <loc>http://localhost:1313/english/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/math-typesetting/</loc>
+    <loc>http://localhost:1313/english/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/math-typesetting/</loc>
+    <loc>http://localhost:1313/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/contact/</loc>
+    <loc>http://localhost:1313/arabic/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/emoji/</loc>
+    <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/emoji-support/</loc>
+    <loc>http://localhost:1313/english/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/emoji-support/</loc>
+    <loc>http://localhost:1313/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/post/</loc>
+    <loc>http://localhost:1313/arabic/post/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
+    <loc>http://localhost:1313/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/post/arabic_example/</loc>
+    <loc>http://localhost:1313/arabic/post/arabic_example/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/post/image-test/</loc>
+    <loc>http://localhost:1313/english/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/post/image-test/</loc>
+    <loc>http://localhost:1313/post/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/tags/thumbnail/</loc>
+    <loc>http://localhost:1313/tags/thumbnail/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/about/</loc>
+    <loc>http://localhost:1313/english/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/arabic/about/</loc>
+    <loc>http://localhost:1313/arabic/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sherrillz.github.io/english/imprint/</loc>
+    <loc>http://localhost:1313/english/imprint/</loc>
   </url><url>
-    <loc>https://sherrillz.github.io/imprint/</loc>
+    <loc>http://localhost:1313/imprint/</loc>
   </url><url>
-    <loc>https://sherrillz.github.io/english/portfolio/</loc>
+    <loc>http://localhost:1313/english/portfolio/</loc>
   </url><url>
-    <loc>https://sherrillz.github.io/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
   </url>
 </urlset>

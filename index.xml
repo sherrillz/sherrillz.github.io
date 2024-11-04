@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>https://sherrillz.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="https://sherrillz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Git and Github</title>
-      <link>https://sherrillz.github.io/english/post/how_to_git/</link>
+      <link>http://localhost:1313/english/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/how_to_git/</guid>
+      <guid>http://localhost:1313/english/post/how_to_git/</guid>
       
         <description></description>
       
@@ -20,21 +20,43 @@
     
     <item>
       <title>Introduction to Git and Github</title>
-      <link>https://sherrillz.github.io/post/how_to_git/</link>
+      <link>http://localhost:1313/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>https://sherrillz.github.io/post/how_to_git/</guid>
+      <guid>http://localhost:1313/post/how_to_git/</guid>
       
         <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
+      <link>http://localhost:1313/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      
+        <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
+      
+    </item>
+    
+    <item>
+      <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
+      <link>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      
+        <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
       
     </item>
     
     <item>
       <title>Awards</title>
-      <link>https://sherrillz.github.io/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/awards/</guid>
+      <guid>http://localhost:1313/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -42,10 +64,10 @@
     
     <item>
       <title>Awards</title>
-      <link>https://sherrillz.github.io/english/awards/</link>
+      <link>http://localhost:1313/english/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/awards/</guid>
+      <guid>http://localhost:1313/english/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -53,10 +75,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://sherrillz.github.io/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/certifications/</guid>
+      <guid>http://localhost:1313/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -64,10 +86,10 @@
     
     <item>
       <title>Certifications</title>
-      <link>https://sherrillz.github.io/english/certifications/</link>
+      <link>http://localhost:1313/english/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/certifications/</guid>
+      <guid>http://localhost:1313/english/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -75,10 +97,10 @@
     
     <item>
       <title>The Notice Shortcode</title>
-      <link>https://sherrillz.github.io/english/post/notice-shortcode/</link>
+      <link>http://localhost:1313/english/post/notice-shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/notice-shortcode/</guid>
+      <guid>http://localhost:1313/english/post/notice-shortcode/</guid>
       
         <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
       
@@ -86,21 +108,87 @@
     
     <item>
       <title>The Notice Shortcode</title>
-      <link>https://sherrillz.github.io/post/notice-shortcode/</link>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
       <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/notice-shortcode/</guid>
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
       
         <description>&lt;p&gt;The notice shortcode supports three different types of disclaimers. These are as following:&lt;/p&gt;</description>
       
     </item>
     
     <item>
+      <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
+      <link>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      
+        <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
+      <link>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      
+        <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tableau: Team project of travel data</title>
+      <link>http://localhost:1313/english/post/tableau-team-project-of-travel-data/</link>
+      <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/tableau-team-project-of-travel-data/</guid>
+      
+        <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Tableau: Team project of travel data</title>
+      <link>http://localhost:1313/post/tableau-team-project-of-travel-data/</link>
+      <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/tableau-team-project-of-travel-data/</guid>
+      
+        <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
+      <link>http://localhost:1313/english/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/english/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      
+        <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
+      
+    </item>
+    
+    <item>
+      <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
+      <link>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      
+        <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
+      
+    </item>
+    
+    <item>
       <title>Series Part 2</title>
-      <link>https://sherrillz.github.io/english/post/series-part-2/</link>
+      <link>http://localhost:1313/english/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/series-part-2/</guid>
+      <guid>http://localhost:1313/english/post/series-part-2/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       
@@ -108,10 +196,10 @@
     
     <item>
       <title>Series Part 2</title>
-      <link>https://sherrillz.github.io/post/series-part-2/</link>
+      <link>http://localhost:1313/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/series-part-2/</guid>
+      <guid>http://localhost:1313/post/series-part-2/</guid>
       
         <description>A brief guide to how to setup series part 2</description>
       
@@ -119,10 +207,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://sherrillz.github.io/english/post/series-part-1/</link>
+      <link>http://localhost:1313/english/post/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/series-part-1/</guid>
+      <guid>http://localhost:1313/english/post/series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -130,10 +218,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://sherrillz.github.io/post/series-part-1/</link>
+      <link>http://localhost:1313/post/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/series-part-1/</guid>
+      <guid>http://localhost:1313/post/series-part-1/</guid>
       
         <description>A brief guide to how to setup series part 1</description>
       
@@ -141,10 +229,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://sherrillz.github.io/english/post/redirect/</link>
+      <link>http://localhost:1313/english/post/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/redirect/</guid>
+      <guid>http://localhost:1313/english/post/redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -152,10 +240,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://sherrillz.github.io/post/redirect/</link>
+      <link>http://localhost:1313/post/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/redirect/</guid>
+      <guid>http://localhost:1313/post/redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -163,10 +251,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://sherrillz.github.io/english/post/figure-shortcode/</link>
+      <link>http://localhost:1313/english/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/figure-shortcode/</guid>
+      <guid>http://localhost:1313/english/post/figure-shortcode/</guid>
       
         <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
       
@@ -174,10 +262,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://sherrillz.github.io/post/figure-shortcode/</link>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/figure-shortcode/</guid>
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
       
         <description>&lt;p&gt;Hugo has &lt;code&gt;figure&lt;/code&gt; shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:&lt;/p&gt;</description>
       
@@ -185,10 +273,10 @@
     
     <item>
       <title></title>
-      <link>https://sherrillz.github.io/arabic/archives/</link>
+      <link>http://localhost:1313/arabic/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/arabic/archives/</guid>
+      <guid>http://localhost:1313/arabic/archives/</guid>
       
         <description></description>
       
@@ -196,10 +284,10 @@
     
     <item>
       <title></title>
-      <link>https://sherrillz.github.io/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       
         <description></description>
       
@@ -207,10 +295,10 @@
     
     <item>
       <title></title>
-      <link>https://sherrillz.github.io/english/archives/</link>
+      <link>http://localhost:1313/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/archives/</guid>
+      <guid>http://localhost:1313/english/archives/</guid>
       
         <description></description>
       
@@ -218,10 +306,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://sherrillz.github.io/english/post/markdown-syntax/</link>
+      <link>http://localhost:1313/english/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/markdown-syntax/</guid>
+      <guid>http://localhost:1313/english/post/markdown-syntax/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       
@@ -229,10 +317,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://sherrillz.github.io/post/markdown-syntax/</link>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/markdown-syntax/</guid>
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
       
         <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
       
@@ -240,10 +328,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://sherrillz.github.io/english/post/rich-content/</link>
+      <link>http://localhost:1313/english/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/rich-content/</guid>
+      <guid>http://localhost:1313/english/post/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       
@@ -251,10 +339,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://sherrillz.github.io/post/rich-content/</link>
+      <link>http://localhost:1313/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/rich-content/</guid>
+      <guid>http://localhost:1313/post/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       
@@ -262,10 +350,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://sherrillz.github.io/english/post/placeholder-text/</link>
+      <link>http://localhost:1313/english/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/placeholder-text/</guid>
+      <guid>http://localhost:1313/english/post/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
@@ -273,10 +361,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://sherrillz.github.io/post/placeholder-text/</link>
+      <link>http://localhost:1313/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/placeholder-text/</guid>
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       
@@ -284,10 +372,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://sherrillz.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -295,10 +383,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://sherrillz.github.io/english/contact/</link>
+      <link>http://localhost:1313/english/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/contact/</guid>
+      <guid>http://localhost:1313/english/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -306,10 +394,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://sherrillz.github.io/english/post/math-typesetting/</link>
+      <link>http://localhost:1313/english/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/math-typesetting/</guid>
+      <guid>http://localhost:1313/english/post/math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
       
@@ -317,10 +405,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://sherrillz.github.io/post/math-typesetting/</link>
+      <link>http://localhost:1313/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/math-typesetting/</guid>
+      <guid>http://localhost:1313/post/math-typesetting/</guid>
       
         <description>A brief guide to setup KaTeX</description>
       
@@ -328,10 +416,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>https://sherrillz.github.io/arabic/contact/</link>
+      <link>http://localhost:1313/arabic/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/arabic/contact/</guid>
+      <guid>http://localhost:1313/arabic/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -339,10 +427,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://sherrillz.github.io/english/post/emoji-support/</link>
+      <link>http://localhost:1313/english/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/emoji-support/</guid>
+      <guid>http://localhost:1313/english/post/emoji-support/</guid>
       
         <description>Guide to emoji usage in Hugo</description>
       
@@ -350,10 +438,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://sherrillz.github.io/post/emoji-support/</link>
+      <link>http://localhost:1313/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/emoji-support/</guid>
+      <guid>http://localhost:1313/post/emoji-support/</guid>
       
         <description>Guide to emoji usage in Hugo</description>
       
@@ -361,10 +449,10 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>https://sherrillz.github.io/arabic/post/arabic_example/</link>
+      <link>http://localhost:1313/arabic/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/arabic/post/arabic_example/</guid>
+      <guid>http://localhost:1313/arabic/post/arabic_example/</guid>
       
         <description>نص عربي سريع</description>
       
@@ -372,10 +460,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://sherrillz.github.io/english/post/image-test/</link>
+      <link>http://localhost:1313/english/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/post/image-test/</guid>
+      <guid>http://localhost:1313/english/post/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
@@ -383,10 +471,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://sherrillz.github.io/post/image-test/</link>
+      <link>http://localhost:1313/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/image-test/</guid>
+      <guid>http://localhost:1313/post/image-test/</guid>
       
         <description>Guide to Thumbnails in Hugo</description>
       
@@ -394,10 +482,10 @@
     
     <item>
       <title>About</title>
-      <link>https://sherrillz.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -405,10 +493,10 @@
     
     <item>
       <title>About</title>
-      <link>https://sherrillz.github.io/english/about/</link>
+      <link>http://localhost:1313/english/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/about/</guid>
+      <guid>http://localhost:1313/english/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -416,10 +504,10 @@
     
     <item>
       <title>حول</title>
-      <link>https://sherrillz.github.io/arabic/about/</link>
+      <link>http://localhost:1313/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/arabic/about/</guid>
+      <guid>http://localhost:1313/arabic/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -427,10 +515,10 @@
     
     <item>
       <title></title>
-      <link>https://sherrillz.github.io/english/imprint/</link>
+      <link>http://localhost:1313/english/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/english/imprint/</guid>
+      <guid>http://localhost:1313/english/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
@@ -443,10 +531,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://sherrillz.github.io/imprint/</link>
+      <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/imprint/</guid>
+      <guid>http://localhost:1313/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;

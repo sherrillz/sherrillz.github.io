@@ -1,0 +1,601 @@
+<!doctype html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <title>
+    
+      
+        R,Excel:Regression analysis of sales data regarding promotional programs |
+      Sherrill Z
+
+  </title>
+
+  <meta name="generator" content="Hugo 0.136.5"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Sherrill Z" />
+  <meta
+    name="description"
+    content="Data Analytics/Scientist/Business intelligence full-time"
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.8d4fad7e6916ad2e291e8d97ada157c70350d6d7150fea137e7243340967befb.css"
+      integrity="sha256-jU&#43;tfmkWrS4pHo2XraFXxwNQ1tcVD&#43;oTfnJDNAlnvvs="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.137b1cf3cea9a8adb7884343a9a5ddddf4280f59153f74dc782fb7f7bf0d0519.css"
+    integrity="sha256-E3sc886pqK23iENDqaXd3fQoD1kVP3TceC&#43;3978NBRk="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.e65dc5b48fb5f39b142360c57c3a215744c94e56c755c929cc3e88fe12aab4d3.css"
+    integrity="sha256-5l3FtI&#43;185sUI2DFfDohV0TJTlbHVckpzD6I/hKqtNM="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.6f4f16d58da1c82c0c3a3436e021a3d39b4742f741192c546e73e947eacfd92f.css"
+    integrity="sha256-b08W1Y2hyCwMOjQ24CGj05tHQvdBGSxUbnPpR&#43;rP2S8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.e10425ad768bc98ff1fb272a0ac8420f9d1ba22f0612c08ff1010c95080ffe7e.css"
+    integrity="sha256-4QQlrXaLyY/x&#43;ycqCshCD50boi8GEsCP8QEMlQgP/n4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+  
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/images/site-feature-image.png">
+  <meta name="twitter:title" content="R,Excel:Regression analysis of sales data regarding promotional programs">
+  <meta name="twitter:description" content="GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.">
+
+
+
+  
+  <meta property="og:url" content="http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/">
+  <meta property="og:site_name" content="My blog">
+  <meta property="og:title" content="R,Excel:Regression analysis of sales data regarding promotional programs">
+  <meta property="og:description" content="GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="english">
+    <meta property="article:published_time" content="2021-12-10T05:00:00+00:00">
+    <meta property="article:modified_time" content="2021-12-10T05:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/images/site-feature-image.png">
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "english",
+        "name": "R,Excel:Regression analysis of sales data regarding promotional programs",
+        "headline": "R,Excel:Regression analysis of sales data regarding promotional programs",
+        "alternativeHeadline": "",
+        "description": "
+      
+        \u003cp\u003eGoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.\u003c\/p\u003e
+
+
+      
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/localhost:1313\/english\/post\/r-regression-analysis-of-sales-data-regarding-promotional-programs\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Shenger Zhang"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Shenger Zhang"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Shenger Zhang"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Shenger Zhang"
+        },
+        "copyrightYear" : "2021",
+        "dateCreated": "2021-12-10T05:00:00.00Z",
+        "datePublished": "2021-12-10T05:00:00.00Z",
+        "dateModified": "2021-12-10T05:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Shenger Zhang",
+            "url": "http://localhost:1313/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http:\/\/localhost:1313\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "http://localhost:1313/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "http:\/\/localhost:1313\/english\/post\/r-regression-analysis-of-sales-data-regarding-promotional-programs\/",
+        "wordCount" : "2061",
+        "genre" : [ ],
+        "keywords" : [ ]
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/profile1.jpg"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">This is Sherrill Zhang</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>Data Analytics/Scientist/Business intelligence full-time</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.linkedin.com/feed/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="mailto:sherrillzhang12@gmail.com"
+            target="_blank"
+            rel="noopener me"
+            aria-label="e-mail"
+            title="e-mail"
+          >
+            <i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Sherrill Z
+        2024
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          imprint
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/post/"
+              
+              title=""
+              >Posts</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/portfolio/"
+              
+              title=""
+              >Projects</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >About</a
+            >
+          </li>
+        
+
+      
+        
+        
+
+          <li class="nav__list-item">
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="4" hidden />
+
+              
+              
+                
+
+              
+
+
+              <label class="optionswitch__label" for="4"
+                >Accomplishments <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    
+                    <a
+                      href="/certifications/"
+                      
+                      title=""
+                      >Certifications</a
+                    >
+                  </li>
+                
+              </ul>
+            </div>
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/contact/"
+              
+              title=""
+              >Contact</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+    <div class="post__content">
+      
+        <h1>R,Excel:Regression Analysis of Sales Data Regarding Promotional Programs</h1>
+      
+      <p>GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.</p>
+<p>During in-store demonstration, GoodMorning representatives handed our product samples. The representative arrived at a specified store, set up a table, distributed samples, informed consumers about the product, and offered coupons to inspire purchase.</p>
+<p>Another promotional program involved competitions among the five GoodMorning sales representatives for the most endcap displays. The endcap is the hub at the end of an aisle-one of the store’s most popular locations. Sales representatives competed for the highest number of stores they could convince to place GoodMorning’s products at the endcap. The winning sales representative received a big screen television. There was also a competition for the best-decorated endcap. The winning store received cases of product for the employees and gift cards.</p>
+<p>The company’s in-store demo was launched in November of 2016. Due to limited marketing resources, management was pressured to cut any marketing expense that did not directly contribute to GoodMorning’s results. By July of 2017, several concerns were raised within the company about the effectiveness of the in-store demo program. Some questioned whether the demos boosted sales at all, while others were concerned that any boost was only temporary and that sales would revert to normal levels shortly afterward. Some executives questioned whether the increase in sales volume could justify the associated costs.</p>
+<p>At the senior manager meeting, GoodMorning management asked Jim Martin, GoodMorning’s Marketing manager to justify the demo and endcap activities. Jim returned to his computer after the meeting and pored over the sales and promotion spreadsheet from the last few months. He recognized that statistics could be used to help his case. He decided to apply regression analysis to the sales and promotion data (GoodMorning.xlsx) to enable a decision on whether or not the company should continue its promotional programs.</p>
+<p><strong>Model A:</strong></p>
+<p>Build a regression model with all variables in the data to explain the relationship between sales and promotional efforts. Let us refer to this model as Model <em>A</em>. Create the residual plot and the scatter plot of fit vs. UnitsSold.</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image003.png)</p>
+<p><em>Plots</em></p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image005.png)</p>
+<p><em>![](/images/blog/730data model/730_Team12_Doc_files/image007.png)</em></p>
+<p><em>visualizing the Residuals</em></p>
+<p><em>![](/images/blog/730data model/730_Team12_Doc_files/image009.png)</em></p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image011.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image013.png)</p>
+<p>b)  Discuss the performance and validity of the model, and how to improve and refine the model.</p>
+<p>● From the Regression summary, we observe that the R2 and the adjusted R2 values are 78 .7 % and 78.57 percent which is basically</p>
+<p>● the proportion of total variation of units sold that is explained by the</p>
+<p>● regression model A.</p>
+<p>● We also observe that the p-value is very small for the f-statistics hence the overall regression model seems to be significant.</p>
+<p>● Based on the <strong>validity of the model</strong> we observe that the independent variables are independent of <strong>multicollinearity.</strong></p>
+<p>● vif(ModelA)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image015.png)</p>
+<p>● Normality Assumption: - when we look at the histogram and the Q-Q plot we observe that its symmetric and when we look at the Q-Q plot are close to a 45-degree line</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image018.gif)![](/images/blog/730data model/730_Team12_Doc_files/image019.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image021.png)</p>
+<p>● Based on the validity of the model when we look at the residuals we see that there are 3 clusters and seems like the errors are skewed</p>
+<p>● We see that there are quite a few <strong>outliers</strong> in the data and treating them appropriately might improve the model performance</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image039.png)</p>
+<p>● One way we could improve and refine the regression model is by removing the “Natural” and the “Fitness” and the Region variable from the model as their p-value seem to be very high.</p>
+<p>● Another additional way of refining the model is by explicitly converting the categorical variables using the factor.</p>
+<p><strong>Model B:</strong></p>
+<p>Build the best valid regression model to explain the relationship between sales and promotional efforts. You may use any transformation of your variables. Let us refer to this model as Model <em>B</em>. Create the residual plot and the scatter plot of fit vs. UnitsSold.</p>
+<p>a) (6 points) Copy and paste the regression output and the plots_._</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image025.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image027.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image029.png)![](/images/blog/730data model/730_Team12_Doc_files/image031.png)![](/images/blog/730data model/730_Team12_Doc_files/image033.png)![](/images/blog/730data model/730_Team12_Doc_files/image035.png)![](/images/blog/730data model/730_Team12_Doc_files/image037.png)</p>
+<p>b) (2 points) Discuss the validity of the model?</p>
+<p>We observe that there are few outliers in the actual versus fitted plot and we need to use appropriate techniques to treat them and improve the performance of the model.</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image039.png)</p>
+<p>Also, when we observe the residual versus fitted plot we observe that the distribution of the errors is skewed we see 3 clusters</p>
+<p>Finally, when we review the Multicollinearity effect using the VIF function we don&rsquo;t see any multicollinearity all the features are independent of each other</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image042.png)</p>
+<p>Based on model:</p>
+<p>c)  Does the in-store demo program boost the sales? If so, for how long does the sales lift last?</p>
+<p>-Yes the in-store demo program boosts the sales because , On an average, the units sold is 107 higher if store gave/had a Demo in the corresponding week (compared to no demo ), while all other variables remain the same.</p>
+<p>- The sales lift lasts for all 5 weeks after a demo is provided. Because all of Demo, Demo(1_3), and Demo(4_5) variables had +ve impact/coefficients on the Units sold variables.</p>
+<p>- From the regression model we observe that :</p>
+<p>-On average, the units sold are 73.7 higher if the store gave/had a demo 1-3 weeks ago (compared to no demo ), while all other variables remain the same.</p>
+<p>-On average, the units sold are 71.4 higher if the store gave/had a demo 4-5 weeks ago (compared to no demo ), while all other variables remain the same.</p>
+<p>d) Does the placement of the product within the store (endcap promotion) affect the sales?</p>
+<p>Yes it does because , on an average, the units sold is 441.007 higher if a store participated in an endcap promotion (compared to no participation ) , while all other variables remain the same.</p>
+<p>e) What other factors affect the sales of GoodMorning product?</p>
+<p>● Apart from the existing factors/features, the Good Morning product should focus on looking at customer demographics, so that they can promote the product to the right set of customers.</p>
+<p>● They can also try different methods /techniques for placement of the product on the shelf /aisle so that it can attract more customers (like placing the product near the billing counter or on the 1st or 2ed shelf may affect the sales).</p>
+<p>● Store&rsquo;s web presence is another important factor which can help them promote the product and reach as many ppl through internet.</p>
+<p>● Finally, they can also look at the number of restaurants in the vicinity of the store and provide promotional discount to promote the probiotic drink.</p>
+<p>f)  Based on the regression output, what are recommendations to Good Morning management?</p>
+<p>- Recommendations to Good Morning management based on the log regression model, which outperformed the other regression models are:</p>
+<p>● Focus on the average retail price of the probiotic juice, which has a negative impact on units sold by looking at the coefficients of the variable from the regression model captured per store per week.</p>
+<p>● Focus more on presenting a Demo in corresponding week for the store, Demo (1_3) weeks ago and Demo (4_5) weeks ago variables have high/positive impact to improve units sold based on the model coefficients.</p>
+<p>● Identifying stores that participate in an endcap promotion because the coefficients for the endcap variable has a positive impact on the units sold based on the model coefficients</p>
+<p>● Having a regional salesperson/representative would also assist raise unit Sold as the Sale_Rep variable has a positive impact on the unit’s sold variable.</p>
+<p><strong>Case 2</strong></p>
+<p>A company is considering whether to market a new product. Assume, for simplicity, that if this product is marketed, there are only two possible outcomes: success or failure. The company assesses that the probabilities of these two outcomes are p and (1-p) respectively. If the product is marketed and it proves to be a failure, the company will have a net loss of $450,000. If the product is marketed and it proves to be a success, the company will have a net gain of $750,000. If the company decides not to market the product, there is no gain or loss.</p>
+<p>The company can first survey prospective buyers of this new product. The results of the consumer survey can be classified as favorable, neutral, or unfavorable. Based on similar survey for previous products, the company assesses these probabilities of favorable, neutral, or unfavorable results to be 0.6, 0.3, and 0.1 for product that will eventually be a success, and it assesses these probabilities to be 0.1, 0.2, and 0.7 for a product that will eventually be a failure. The total cost of administering this survey is C dollars.</p>
+<p>Let p=0.5 and C= $15,000.</p>
+<p>The company wants to construct a decision tree for this problem. The first step is to compute the posterior probabilities that the product will be eventually success and failure using the result from the consumer survey. The probabilities are given in Exhibit A.</p>
+<p>The company would like to find the strategy that maximizes the company’s expected net earnings (EMV).</p>
+<p>a) Construct a decision tree for this problem (Exhibit A). Generate the optimal decision strategy tree</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image046.png)</p>
+<p>● Does the optimal strategy involve conducting the survey?</p>
+<p>Yes.</p>
+<p>● What is the EMV under the optimal strategy?</p>
+<p>EMV= 255000</p>
+<p>b) Suppose that the total cost of administering this survey is $50,000.</p>
+<p>● Does this change the company’s decision?</p>
+<p>No.</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image050.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image052.png)</p>
+<p>● What is the maximum amount that the company is willing to pay for the survey?</p>
+<p>$120000.</p>
+<p>The strategy changes from Yes to No at $120000 according to the strategy report.</p>
+<p>c) Conduct sensitivity analysis between 0.3 and 0.9 with 10 steps.</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image054.png)</p>
+<p>● What is the approximate value of p that changes the optimal strategy?</p>
+<p>The approximate value of p is 0.68.</p>
+<p>● Explain the results in detail.</p>
+<p>From the starting point of 0.3, the probability of success is quite low. The company will choose to conduct the survey and decide to launch the product based on the survey outcome. For not conducting the survey they will not launch the product until the p is higher than approximately 0.38.</p>
+<p>As the probability of success increases, at approximately 0.68 the company will switch from conducting the survey to not conducting the survey before making a decision whether they should launch the new product or not.</p>
+<p>As the probability continues to increase, the value of information derived from the survey will reduce . Hence the difference between EMV of Not conducting the survey and conducting will be close to parallel as seen from the above graph and this difference is nothing but the money paid for the survey.</p>
+<p><strong>Now, we would like to find the strategy that maximizes the company’s expected utility with the risk tolerance of R= 500,000.</strong></p>
+<p>d)  Generate the optimal decision strategy tree. Does this change the company’s decision?</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image049.gif)</p>
+<p><strong>The model is based on the $15,000 survey fees</strong></p>
+<p><strong>No, it doesn’t change.</strong></p>
+<p>e)  Conduct a sensitivity analysis on p: between 0.3 and 0.9 with 10 steps. How the second stage decision changes as p increases.</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image056.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image058.png)</p>
+<p>![](/images/blog/730data model/730_Team12_Doc_files/image060.png)</p>
+<p>With a risk tolerance of R= 500,000, the company is now risk-averse.</p>
+<p>From the starting point of 0.3, the probability of success is quite low. Both conduct the survey and not conduct the survey will choose not to launch the product.</p>
+<p>As the probability of success increases, the company will choose to conduct a survey and launch the product according to the survey outcomes. For not conducting the survey, the EMV will remain 0 until they think the probability of success is high enough at approximately 0.64 from strategy region graph pasted above, then they will launch the new product.</p>
+<p>As the probability continues to increase, the information obtained from the survey will get less. And the company will choose not to conduct the survey and launch the product anyway when the probability is higher than 0.9.</p>
+</div>
+    <div class="post__footer">
+      
+
+      
+    </div>
+
+    
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Sherrill Z
+        2024
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          imprint
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></body>
+</html>

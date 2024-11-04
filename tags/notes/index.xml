@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on My blog</title>
+    <link>https://sherrillz.github.io/tags/notes/</link>
+    <description>Recent content in Notes on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="https://sherrillz.github.io/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Git and Github</title>
+      <link>https://sherrillz.github.io/english/post/how_to_git/</link>
+      <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
+      
+      <guid>https://sherrillz.github.io/english/post/how_to_git/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Git and Github</title>
+      <link>https://sherrillz.github.io/post/how_to_git/</link>
+      <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
+      
+      <guid>https://sherrillz.github.io/post/how_to_git/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

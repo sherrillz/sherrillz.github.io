@@ -83,10 +83,10 @@
     <loc>http://localhost:1313/tags/shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/notice-shortcode/</loc>
+    <loc>http://localhost:1313/english/post/draft/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/notice-shortcode/</loc>
+    <loc>http://localhost:1313/post/draft/notice-shortcode/</loc>
     <lastmod>2022-03-18T21:47:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
@@ -125,37 +125,37 @@
                 href="http://localhost:1313/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/english/post/series-part-2/</loc>
+    <loc>http://localhost:1313/english/post/draft/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/series-part-2/</loc>
+    <loc>http://localhost:1313/post/draft/series-part-2/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/series/series-setup/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/series-part-1/</loc>
+    <loc>http://localhost:1313/english/post/draft/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/series-part-1/</loc>
+    <loc>http://localhost:1313/post/draft/series-part-1/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/redirect/</loc>
+    <loc>http://localhost:1313/english/post/draft/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/redirect/</loc>
+    <loc>http://localhost:1313/post/draft/redirect/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/redirecturl/</loc>
     <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/figure-shortcode/</loc>
+    <loc>http://localhost:1313/english/post/draft/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/figure-shortcode/</loc>
+    <loc>http://localhost:1313/post/draft/figure-shortcode/</loc>
     <lastmod>2021-03-13T21:47:41+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/arabic/</loc>
@@ -197,10 +197,10 @@
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/markdown-syntax/</loc>
+    <loc>http://localhost:1313/english/post/draft/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/markdown-syntax/</loc>
+    <loc>http://localhost:1313/post/draft/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
@@ -215,19 +215,19 @@
     <loc>http://localhost:1313/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/rich-content/</loc>
+    <loc>http://localhost:1313/english/post/draft/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/rich-content/</loc>
+    <loc>http://localhost:1313/post/draft/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/placeholder-text/</loc>
+    <loc>http://localhost:1313/english/post/draft/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/placeholder-text/</loc>
+    <loc>http://localhost:1313/post/draft/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/text/</loc>
@@ -239,10 +239,10 @@
     <loc>http://localhost:1313/english/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/math-typesetting/</loc>
+    <loc>http://localhost:1313/english/post/draft/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/math-typesetting/</loc>
+    <loc>http://localhost:1313/post/draft/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/arabic/contact/</loc>
@@ -251,10 +251,10 @@
     <loc>http://localhost:1313/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/emoji-support/</loc>
+    <loc>http://localhost:1313/english/post/draft/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/emoji-support/</loc>
+    <loc>http://localhost:1313/post/draft/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/arabic/post/</loc>
@@ -266,10 +266,10 @@
     <loc>http://localhost:1313/arabic/post/arabic_example/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/english/post/image-test/</loc>
+    <loc>http://localhost:1313/english/post/draft/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/image-test/</loc>
+    <loc>http://localhost:1313/post/draft/image-test/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/thumbnail/</loc>

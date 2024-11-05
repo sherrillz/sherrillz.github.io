@@ -75,7 +75,7 @@
     type="text/css"
   />
   
-  <link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
@@ -458,7 +458,60 @@ Remember that you can also specify a section header for the posts below by confi
       <div class="post__content">
         <h3><a href="/post/how_to_git/">INTRODUCTION TO GIT AND GITHUB</a></h3>
         
-          <p></p>
+          <p><h1 id="learning-git-and-github">Learning Git and Github</h1>
+<h3 id="shell-commands">Shell commands</h3>
+<ol>
+<li><code>pwd</code> know the path of the folder</li>
+<li><code>ls</code> know the files under the folder</li>
+<li><code>cd</code> changing directory of the files
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="nb">cd </span><span class="n">subfolder</span>
+</span></span></code></pre></div>The file will be changed to the <code>subfolder</code> under the same path</li>
+<li><code>nano</code> edit a file: delete, add or change content
+<ol>
+<li><code>ctrl+0</code> save changes</li>
+<li><code>ctrl+x</code> exit editor</li>
+</ol>
+</li>
+<li>Editing a file
+<ol>
+<li><code>echo</code>—create or edit a file</li>
+<li>Create a new file todo.txt</li>
+</ol>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl">       <span class="nb">echo </span><span class="s2">&#34;Review for duplicate records&#34;</span> <span class="p">&gt;</span> <span class="n">todo</span><span class="p">.</span><span class="py">txt</span>
+</span></span></code></pre></div><ol>
+<li>Add content to existing file todo.tx</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl">   <span class="nb">echo </span><span class="s2">&#34;Review for duplicate records&#34;</span> <span class="p">&gt;&gt;</span> <span class="n">todo</span><span class="p">.</span><span class="py">txt</span>
+</span></span></code></pre></div><h3 id="git">Git</h3>
+<h4 id="work-with-repository">Work with repository</h4>
+<ol>
+<li>Create a git repo</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="c">#Start sth new</span>
+</span></span><span class="line"><span class="cl"><span class="n">git</span> <span class="n">init</span> <span class="n">repo_name</span>
+</span></span><span class="line"><span class="cl"><span class="c">#Already in a project? Create one based on this</span>
+</span></span><span class="line"><span class="cl"><span class="n">git</span> <span class="n">init</span>
+</span></span><span class="line"><span class="cl"><span class="c">#Move to this directory</span>
+</span></span><span class="line"><span class="cl"><span class="n">git</span> <span class="nb">cd </span><span class="n">new_repo</span>
+</span></span><span class="line"><span class="cl"><span class="c">#Create a file for this new repo</span>
+</span></span><span class="line"><span class="cl"><span class="n">git</span> <span class="n">add</span> <span class="n">file</span><span class="p">.</span><span class="py">txt</span>
+</span></span></code></pre></div><h4 id="basic-from-create-to-push">Basic: From Create to Push</h4>
+<ol>
+<li>Check Git version</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="n">git</span> <span class="p">--</span><span class="n">-version</span>
+</span></span></code></pre></div><ol start="2">
+<li>Modify a file</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="n">nano</span> <span class="n">yourfile</span><span class="p">.</span><span class="nb">Md
+</span></span></span></code></pre></div><ol start="3">
+<li>Add file to stage</li>
+</ol>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-powershell" data-lang="powershell"><span class="line"><span class="cl"><span class="n">git</span> <span class="n">add</span> <span class="n">yourfile</span><span class="p">.</span><span class="nb">md
+</span></span></span><span class="line"><span class="cl"><span class="nb"></span><span class="n">git</span> <span class="n">add</span> <span class="n">file1</span><span class="p">.</span><span class="nb">md </span><span class="n">file2</span><span class="p">.</span><span class="py">py</span> <span class="c">#Stage multiple files</span>
+</span></span></code></pre></div><p>Add all the file to the stage</p></p>
         
         </div>
 
@@ -520,7 +573,7 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/notice-shortcode/">THE NOTICE SHORTCODE</a></h3>
+        <h3><a href="/post/draft/notice-shortcode/">THE NOTICE SHORTCODE</a></h3>
         
           <p>The notice shortcode supports three different types of disclaimers. These are as following:</p>
         
@@ -645,7 +698,7 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/series-part-2/">SERIES PART 2</a></h3>
+        <h3><a href="/post/draft/series-part-2/">SERIES PART 2</a></h3>
         
           <p>In this second part of the series we&rsquo;ll show you where to find the full series</p>
         
@@ -675,7 +728,7 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/series-part-1/">SERIES PART 1</a></h3>
+        <h3><a href="/post/draft/series-part-1/">SERIES PART 1</a></h3>
         
           <p>In this first part of the series we&rsquo;ll show you how to create a series</p>
         
@@ -705,7 +758,7 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/redirect/">REDIRECT</a></h3>
+        <h3><a href="/post/draft/redirect/">REDIRECT</a></h3>
         
           <p><p>Forwarding to <a href="https://gohugo.io">gohugo</a> using <code>redirectUrl</code></p>
 <div class="sk-wrapper">
@@ -747,7 +800,7 @@ Remember that you can also specify a section header for the posts below by confi
     >
       
       <div class="post__content">
-        <h3><a href="/post/figure-shortcode/">THE FIGURE SHORTCODE</a></h3>
+        <h3><a href="/post/draft/figure-shortcode/">THE FIGURE SHORTCODE</a></h3>
         
           <p>Hugo has <code>figure</code> shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:</p>
         

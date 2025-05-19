@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh-cn/categories/</loc>
+    <loc>https://sherrillz.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://sherrillz.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:1313/cn/categories/"
+                href="https://sherrillz.github.io/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/"
+                href="https://sherrillz.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/series/</loc>
+    <loc>https://sherrillz.github.io/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://sherrillz.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:1313/cn/series/"
+                href="https://sherrillz.github.io/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/series/"
+                href="https://sherrillz.github.io/zh-cn/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/tags/</loc>
+    <loc>https://sherrillz.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://sherrillz.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:1313/cn/tags/"
+                href="https://sherrillz.github.io/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/tags/"
+                href="https://sherrillz.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh-cn/</loc>
+    <loc>https://sherrillz.github.io/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://sherrillz.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:1313/cn/"
+                href="https://sherrillz.github.io/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/"
+                href="https://sherrillz.github.io/zh-cn/"
                 />
   </url>
 </urlset>

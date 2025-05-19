@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thumbnail on My blog</title>
-    <link>http://localhost:56240/tags/thumbnail/</link>
+    <link>http://localhost:56482/tags/thumbnail/</link>
     <description>Recent content in Thumbnail on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56240/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:56482/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notebook for HTML and CSS</title>
-      <link>http://localhost:56240/english/post/learn_html/</link>
+      <link>http://localhost:56482/english/post/learn_html/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:56240/english/post/learn_html/</guid>
+      <guid>http://localhost:56482/english/post/learn_html/</guid>
       
         <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Notebook for HTML and CSS</title>
-      <link>http://localhost:56240/post/learn_html/</link>
+      <link>http://localhost:56482/post/learn_html/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:56240/post/learn_html/</guid>
+      <guid>http://localhost:56482/post/learn_html/</guid>
       
         <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
       

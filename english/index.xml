@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:1313/english/</link>
+    <link>http://localhost:53341/english/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:53341/english/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/english/awards/</link>
+      <link>http://localhost:53341/english/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/awards/</guid>
+      <guid>http://localhost:53341/english/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -20,21 +20,32 @@
     
     <item>
       <title>Certifications</title>
-      <link>http://localhost:1313/english/certifications/</link>
+      <link>http://localhost:53341/english/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/certifications/</guid>
+      <guid>http://localhost:53341/english/certifications/</guid>
       
-        <description>Hugo Certifications</description>
+        <description>Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:53341/english/about/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53341/english/about/</guid>
+      
+        <description>About me About this site</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/archives/</link>
+      <link>http://localhost:53341/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/archives/</guid>
+      <guid>http://localhost:53341/english/archives/</guid>
       
         <description></description>
       
@@ -42,32 +53,21 @@
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/english/contact/</link>
+      <link>http://localhost:53341/english/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/contact/</guid>
+      <guid>http://localhost:53341/english/contact/</guid>
       
         <description>Contact Page</description>
       
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/english/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/english/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
       <title></title>
-      <link>http://localhost:1313/english/imprint/</link>
+      <link>http://localhost:53341/english/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/imprint/</guid>
+      <guid>http://localhost:53341/english/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;

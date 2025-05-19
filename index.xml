@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:53341/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:53341/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Git and Github</title>
-      <link>http://localhost:1313/english/post/how_to_git/</link>
+      <link>http://localhost:53341/english/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:1313/english/post/how_to_git/</guid>
+      <guid>http://localhost:53341/english/post/how_to_git/</guid>
       
         <description>&lt;h1 id=&#34;learning-git-and-github&#34;&gt;Learning Git and Github&lt;/h1&gt;
 &lt;h3 id=&#34;shell-commands&#34;&gt;Shell commands&lt;/h3&gt;
@@ -73,10 +73,10 @@
     
     <item>
       <title>Introduction to Git and Github</title>
-      <link>http://localhost:1313/post/how_to_git/</link>
+      <link>http://localhost:53341/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:1313/post/how_to_git/</guid>
+      <guid>http://localhost:53341/post/how_to_git/</guid>
       
         <description>&lt;h1 id=&#34;learning-git-and-github&#34;&gt;Learning Git and Github&lt;/h1&gt;
 &lt;h3 id=&#34;shell-commands&#34;&gt;Shell commands&lt;/h3&gt;
@@ -137,10 +137,10 @@
     
     <item>
       <title>Notebook for HTML and CSS</title>
-      <link>http://localhost:1313/english/post/learn_html/</link>
+      <link>http://localhost:53341/english/post/learn_html/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/learn_html/</guid>
+      <guid>http://localhost:53341/english/post/learn_html/</guid>
       
         <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
       
@@ -148,21 +148,61 @@
     
     <item>
       <title>Notebook for HTML and CSS</title>
-      <link>http://localhost:1313/post/learn_html/</link>
+      <link>http://localhost:53341/post/learn_html/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/learn_html/</guid>
+      <guid>http://localhost:53341/post/learn_html/</guid>
       
         <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
       
     </item>
     
     <item>
+      <title>The Markdown Style Book CN version</title>
+      <link>http://localhost:53341/english/post/markdown-style-book/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53341/english/post/markdown-style-book/</guid>
+      
+        <description>&lt;p&gt;==（1）标题==&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;四级标题&#34;&gt;四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;五级标题&#34;&gt;五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;六级标题&#34;&gt;六级标题&lt;/h6&gt;
+&lt;p&gt;==（2）字体==&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Markdown Style Book CN version</title>
+      <link>http://localhost:53341/post/markdown-style-book/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:53341/post/markdown-style-book/</guid>
+      
+        <description>&lt;p&gt;==（1）标题==&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;四级标题&#34;&gt;四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;五级标题&#34;&gt;五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;六级标题&#34;&gt;六级标题&lt;/h6&gt;
+&lt;p&gt;==（2）字体==&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
-      <link>http://localhost:1313/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <link>http://localhost:53341/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
       <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      <guid>http://localhost:53341/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
       
         <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
       
@@ -170,10 +210,10 @@
     
     <item>
       <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
-      <link>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <link>http://localhost:53341/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
       <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      <guid>http://localhost:53341/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
       
         <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
       
@@ -181,10 +221,10 @@
     
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/awards/</link>
+      <link>http://localhost:53341/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/awards/</guid>
+      <guid>http://localhost:53341/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -192,10 +232,10 @@
     
     <item>
       <title>Awards</title>
-      <link>http://localhost:1313/english/awards/</link>
+      <link>http://localhost:53341/english/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/awards/</guid>
+      <guid>http://localhost:53341/english/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -203,32 +243,32 @@
     
     <item>
       <title>Certifications</title>
-      <link>http://localhost:1313/certifications/</link>
+      <link>http://localhost:53341/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/certifications/</guid>
+      <guid>http://localhost:53341/certifications/</guid>
       
-        <description>Hugo Certifications</description>
+        <description>Certifications</description>
       
     </item>
     
     <item>
       <title>Certifications</title>
-      <link>http://localhost:1313/english/certifications/</link>
+      <link>http://localhost:53341/english/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/certifications/</guid>
+      <guid>http://localhost:53341/english/certifications/</guid>
       
-        <description>Hugo Certifications</description>
+        <description>Certifications</description>
       
     </item>
     
     <item>
       <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
-      <link>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <link>http://localhost:53341/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
       <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      <guid>http://localhost:53341/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
       
         <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
       
@@ -236,10 +276,10 @@
     
     <item>
       <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
-      <link>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <link>http://localhost:53341/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
       <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      <guid>http://localhost:53341/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
       
         <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
       
@@ -247,10 +287,10 @@
     
     <item>
       <title>Tableau: Team project of travel data</title>
-      <link>http://localhost:1313/english/post/tableau-team-project-of-travel-data/</link>
+      <link>http://localhost:53341/english/post/tableau-team-project-of-travel-data/</link>
       <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/tableau-team-project-of-travel-data/</guid>
+      <guid>http://localhost:53341/english/post/tableau-team-project-of-travel-data/</guid>
       
         <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
       
@@ -258,10 +298,10 @@
     
     <item>
       <title>Tableau: Team project of travel data</title>
-      <link>http://localhost:1313/post/tableau-team-project-of-travel-data/</link>
+      <link>http://localhost:53341/post/tableau-team-project-of-travel-data/</link>
       <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/tableau-team-project-of-travel-data/</guid>
+      <guid>http://localhost:53341/post/tableau-team-project-of-travel-data/</guid>
       
         <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
       
@@ -269,10 +309,10 @@
     
     <item>
       <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
-      <link>http://localhost:1313/english/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <link>http://localhost:53341/english/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
       <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      <guid>http://localhost:53341/english/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
       
         <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
       
@@ -280,43 +320,43 @@
     
     <item>
       <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
-      <link>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <link>http://localhost:53341/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
       <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      <guid>http://localhost:53341/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
       
         <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/english/post/draft/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>http://localhost:53341/about/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/post/draft/redirect/</guid>
+      <guid>http://localhost:53341/about/</guid>
       
-        <description>Usage of redirectUrl</description>
+        <description>About me About this site</description>
       
     </item>
     
     <item>
-      <title>Redirect</title>
-      <link>http://localhost:1313/post/draft/redirect/</link>
-      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>http://localhost:53341/english/about/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/draft/redirect/</guid>
+      <guid>http://localhost:53341/english/about/</guid>
       
-        <description>Usage of redirectUrl</description>
+        <description>About me About this site</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/arabic/archives/</link>
+      <link>http://localhost:53341/arabic/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/arabic/archives/</guid>
+      <guid>http://localhost:53341/arabic/archives/</guid>
       
         <description></description>
       
@@ -324,10 +364,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>http://localhost:53341/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>http://localhost:53341/archives/</guid>
       
         <description></description>
       
@@ -335,65 +375,21 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/archives/</link>
+      <link>http://localhost:53341/english/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/archives/</guid>
+      <guid>http://localhost:53341/english/archives/</guid>
       
         <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/english/post/draft/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/english/post/draft/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/draft/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/draft/rich-content/</guid>
-      
-        <description>A brief description of Hugo Shortcodes</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/english/post/draft/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/english/post/draft/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/draft/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/post/draft/placeholder-text/</guid>
-      
-        <description>Lorem Ipsum Dolor Si Amet</description>
       
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://localhost:53341/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://localhost:53341/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -401,10 +397,10 @@
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/english/contact/</link>
+      <link>http://localhost:53341/english/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/contact/</guid>
+      <guid>http://localhost:53341/english/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -412,10 +408,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>http://localhost:1313/arabic/contact/</link>
+      <link>http://localhost:53341/arabic/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/arabic/contact/</guid>
+      <guid>http://localhost:53341/arabic/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -423,43 +419,21 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>http://localhost:1313/arabic/post/arabic_example/</link>
+      <link>http://localhost:53341/arabic/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/arabic/post/arabic_example/</guid>
+      <guid>http://localhost:53341/arabic/post/arabic_example/</guid>
       
         <description>نص عربي سريع</description>
       
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/english/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/english/about/</guid>
-      
-        <description>Hugo, the world&#39;s fastest framework for building websites</description>
-      
-    </item>
-    
-    <item>
       <title>حول</title>
-      <link>http://localhost:1313/arabic/about/</link>
+      <link>http://localhost:53341/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/arabic/about/</guid>
+      <guid>http://localhost:53341/arabic/about/</guid>
       
         <description>Hugo, the world&#39;s fastest framework for building websites</description>
       
@@ -467,10 +441,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/english/imprint/</link>
+      <link>http://localhost:53341/english/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/english/imprint/</guid>
+      <guid>http://localhost:53341/english/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;
@@ -483,10 +457,10 @@ Germany&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/imprint/</link>
+      <link>http://localhost:53341/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/imprint/</guid>
+      <guid>http://localhost:53341/imprint/</guid>
       
         <description>&lt;h1 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h1&gt;
 &lt;p&gt;Information in accordance with the applicable law&lt;/p&gt;

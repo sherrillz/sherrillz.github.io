@@ -2,28 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>https://sherrillz.github.io/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2024 22:29:45 +0800</lastBuildDate><atom:link href="https://sherrillz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notebook for HTML and CSS</title>
-      <link>https://sherrillz.github.io/post/learn_html/</link>
-      <pubDate>Tue, 19 Nov 2024 22:29:45 +0800</pubDate>
-      
-      <guid>https://sherrillz.github.io/post/learn_html/</guid>
-      
-        <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Git and Github</title>
-      <link>https://sherrillz.github.io/post/how_to_git/</link>
+      <link>http://localhost:1313/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>https://sherrillz.github.io/post/how_to_git/</guid>
+      <guid>http://localhost:1313/post/how_to_git/</guid>
       
         <description>&lt;h1 id=&#34;learning-git-and-github&#34;&gt;Learning Git and Github&lt;/h1&gt;
 &lt;h3 id=&#34;shell-commands&#34;&gt;Shell commands&lt;/h3&gt;
@@ -83,11 +72,22 @@
     </item>
     
     <item>
+      <title>Notebook for HTML and CSS</title>
+      <link>http://localhost:1313/post/learn_html/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/learn_html/</guid>
+      
+        <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
-      <link>https://sherrillz.github.io/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <link>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
       <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      <guid>http://localhost:1313/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
       
         <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
       
@@ -95,10 +95,10 @@
     
     <item>
       <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
-      <link>https://sherrillz.github.io/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <link>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
       <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      <guid>http://localhost:1313/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
       
         <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
       
@@ -106,10 +106,10 @@
     
     <item>
       <title>Tableau: Team project of travel data</title>
-      <link>https://sherrillz.github.io/post/tableau-team-project-of-travel-data/</link>
+      <link>http://localhost:1313/post/tableau-team-project-of-travel-data/</link>
       <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/tableau-team-project-of-travel-data/</guid>
+      <guid>http://localhost:1313/post/tableau-team-project-of-travel-data/</guid>
       
         <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
       
@@ -117,10 +117,10 @@
     
     <item>
       <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
-      <link>https://sherrillz.github.io/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <link>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
       <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      <guid>http://localhost:1313/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
       
         <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
       
@@ -128,10 +128,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://sherrillz.github.io/post/draft/redirect/</link>
+      <link>http://localhost:1313/post/draft/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/draft/redirect/</guid>
+      <guid>http://localhost:1313/post/draft/redirect/</guid>
       
         <description>Usage of redirectUrl</description>
       
@@ -139,10 +139,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://sherrillz.github.io/post/draft/rich-content/</link>
+      <link>http://localhost:1313/post/draft/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/draft/rich-content/</guid>
+      <guid>http://localhost:1313/post/draft/rich-content/</guid>
       
         <description>A brief description of Hugo Shortcodes</description>
       
@@ -150,10 +150,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://sherrillz.github.io/post/draft/placeholder-text/</link>
+      <link>http://localhost:1313/post/draft/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sherrillz.github.io/post/draft/placeholder-text/</guid>
+      <guid>http://localhost:1313/post/draft/placeholder-text/</guid>
       
         <description>Lorem Ipsum Dolor Si Amet</description>
       

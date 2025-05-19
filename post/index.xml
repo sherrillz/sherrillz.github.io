@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My blog</title>
-    <link>http://localhost:53341/post/</link>
+    <link>http://localhost:56240/post/</link>
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:53341/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:56240/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Git and Github</title>
-      <link>http://localhost:53341/post/how_to_git/</link>
+      <link>http://localhost:56240/post/how_to_git/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:53341/post/how_to_git/</guid>
+      <guid>http://localhost:56240/post/how_to_git/</guid>
       
         <description>&lt;h1 id=&#34;learning-git-and-github&#34;&gt;Learning Git and Github&lt;/h1&gt;
 &lt;h3 id=&#34;shell-commands&#34;&gt;Shell commands&lt;/h3&gt;
@@ -73,10 +73,10 @@
     
     <item>
       <title>Notebook for HTML and CSS</title>
-      <link>http://localhost:53341/post/learn_html/</link>
+      <link>http://localhost:56240/post/learn_html/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/learn_html/</guid>
+      <guid>http://localhost:56240/post/learn_html/</guid>
       
         <description>&lt;p&gt;With over five billion global internet users in 2023, there is high demand to build web-based technologies, and it’s one of the most common platforms in software development. This course offers a project-based approach where beginners can get started with a hands-on approach to learning. Microsoft developer advocates Jasmine Greenaway and Nitya Narasimhan show you the tools of web development so you can start coding in HTML, CSS, and JavaScript. Plus, learn how artificial intelligence tools like Copilot and ChatGPT can assist in your web development.&lt;/p&gt;</description>
       
@@ -84,10 +84,10 @@
     
     <item>
       <title>The Markdown Style Book CN version</title>
-      <link>http://localhost:53341/post/markdown-style-book/</link>
+      <link>http://localhost:56240/post/markdown-style-book/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/markdown-style-book/</guid>
+      <guid>http://localhost:56240/post/markdown-style-book/</guid>
       
         <description>&lt;p&gt;==（1）标题==&lt;/p&gt;
 &lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>Excel, SQL, Tableau: Development of an Online Restaurant Recommendations Model</title>
-      <link>http://localhost:53341/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
+      <link>http://localhost:56240/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</link>
       <pubDate>Thu, 08 Dec 2022 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
+      <guid>http://localhost:56240/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</guid>
       
         <description>Built an interactive map using Tableau to show the top 5 restaurants by filtering restaurant categories </description>
       
@@ -115,10 +115,10 @@
     
     <item>
       <title>R,Excel:Regression analysis of sales data regarding promotional programs</title>
-      <link>http://localhost:53341/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
+      <link>http://localhost:56240/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</link>
       <pubDate>Fri, 10 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
+      <guid>http://localhost:56240/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</guid>
       
         <description>&lt;p&gt;GoodMorning is a new line of probiotic juice products. Since its first product launch in 2015, GoodMorning were now on the shelves of nationwide retailers. GoodMorning had the challenge of raising product awareness, particularly about the benefit of probiotics and the great taste. As a recent stat-up in the fairly new probiotic market, GoodMorning did not have the funding to place nationwide advertisements. It instead allocated much of its small marketing budget to in-store demonstrations.&lt;/p&gt;</description>
       
@@ -126,10 +126,10 @@
     
     <item>
       <title>Tableau: Team project of travel data</title>
-      <link>http://localhost:53341/post/tableau-team-project-of-travel-data/</link>
+      <link>http://localhost:56240/post/tableau-team-project-of-travel-data/</link>
       <pubDate>Tue, 07 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/tableau-team-project-of-travel-data/</guid>
+      <guid>http://localhost:56240/post/tableau-team-project-of-travel-data/</guid>
       
         <description>&lt;p&gt;This is a school project. All the questions refer to the assignment documents.&lt;/p&gt;</description>
       
@@ -137,12 +137,46 @@
     
     <item>
       <title>Python: Descriptive Analytics on Alumni Association Dataset</title>
-      <link>http://localhost:53341/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
+      <link>http://localhost:56240/post/python-descriptive-analytics-on-alumni-association-dataset/</link>
       <pubDate>Thu, 02 Dec 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
+      <guid>http://localhost:56240/post/python-descriptive-analytics-on-alumni-association-dataset/</guid>
       
         <description>Conducted EDA using seaborn and matplotlib libraries to investigate correlations between different predictors such as location, event type and their major gift prospect</description>
+      
+    </item>
+    
+    <item>
+      <title>Notebook for JavaScript</title>
+      <link>http://localhost:56240/post/javascript_beginner_notebook/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:56240/post/javascript_beginner_notebook/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;JavaScript Notebook&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#table-of-contents&#34;&gt;Table of Contents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#setting-up-environment&#34;&gt;Setting Up Environment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#hello-world&#34;&gt;Hello, World!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#variables--data-types&#34;&gt;Variables &amp;amp; Data Types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#operators&#34;&gt;Operators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#control-flow&#34;&gt;Control Flow&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#if--else&#34;&gt;If / Else&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#loops&#34;&gt;Loops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#functions&#34;&gt;Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#arrays&#34;&gt;Arrays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#objects&#34;&gt;Objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:56240/post/javascript_beginner_notebook/#dom-manipulation&#34;&gt;DOM Manipulation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;JavaScript is a versatile, beginner-friendly language used for web development, server-side scripting, and more. In this notebook, you&amp;rsquo;ll learn core concepts and write your first lines of JavaScript.&lt;/p&gt;</description>
       
     </item>
     

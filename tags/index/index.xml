@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on My blog</title>
-    <link>http://localhost:53341/tags/index/</link>
+    <link>http://localhost:56240/tags/index/</link>
     <description>Recent content in Index on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:53341/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:56240/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:53341/english/post/</link>
+      <link>http://localhost:56240/english/post/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:53341/english/post/</guid>
+      <guid>http://localhost:56240/english/post/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Posts</title>
-      <link>http://localhost:53341/post/</link>
+      <link>http://localhost:56240/post/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:53341/post/</guid>
+      <guid>http://localhost:56240/post/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Posts</title>
-      <link>http://localhost:53341/arabic/post/</link>
+      <link>http://localhost:56240/arabic/post/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/arabic/post/</guid>
+      <guid>http://localhost:56240/arabic/post/</guid>
       
         <description></description>
       

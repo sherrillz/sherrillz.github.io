@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Website of SherrllZ</title>
-    <link>http://localhost:53341/cn/series/</link>
+    <link>http://localhost:56240/cn/series/</link>
     <description>Recent content in Series on Website of SherrllZ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language><atom:link href="http://localhost:53341/cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language><atom:link href="http://localhost:56240/cn/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

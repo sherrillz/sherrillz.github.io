@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>http://localhost:53341/tags/</link>
+    <link>http://localhost:56240/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:53341/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Nov 2024 11:58:53 -0800</lastBuildDate><atom:link href="http://localhost:56240/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>http://localhost:53341/tags/index/</link>
+      <link>http://localhost:56240/tags/index/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:53341/tags/index/</guid>
+      <guid>http://localhost:56240/tags/index/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Notes</title>
-      <link>http://localhost:53341/tags/notes/</link>
+      <link>http://localhost:56240/tags/notes/</link>
       <pubDate>Mon, 04 Nov 2024 11:58:53 -0800</pubDate>
       
-      <guid>http://localhost:53341/tags/notes/</guid>
+      <guid>http://localhost:56240/tags/notes/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Thumbnail</title>
-      <link>http://localhost:53341/tags/thumbnail/</link>
+      <link>http://localhost:56240/tags/thumbnail/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/tags/thumbnail/</guid>
+      <guid>http://localhost:56240/tags/thumbnail/</guid>
       
         <description></description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>عربي</title>
-      <link>http://localhost:53341/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
+      <link>http://localhost:56240/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:53341/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
+      <guid>http://localhost:56240/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</guid>
       
         <description></description>
       

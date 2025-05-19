@@ -1,0 +1,653 @@
+<!doctype html>
+<html
+  dir="ltr"
+  lang="en"
+  data-theme=""
+  
+    class="html theme--light"
+  
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=56240&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <title>
+    
+      
+        Notebook for JavaScript |
+      Sherrill Z
+
+  </title>
+
+  <meta name="generator" content="Hugo 0.136.5"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="author" content="Sherrill Z" />
+  <meta
+    name="description"
+    content="Data Analytics/Scientist/Business intelligence full-time"
+  />
+  
+  
+    
+    
+    <link
+      rel="stylesheet"
+      href="/scss/main.min.8d4fad7e6916ad2e291e8d97ada157c70350d6d7150fea137e7243340967befb.css"
+      integrity="sha256-jU&#43;tfmkWrS4pHo2XraFXxwNQ1tcVD&#43;oTfnJDNAlnvvs="
+      crossorigin="anonymous"
+      type="text/css"
+    />
+  
+
+  
+  <link
+    rel="stylesheet"
+    href="/css/markupHighlight.min.73ccfdf28df555e11009c13c20ced067af3cb021504cba43644c705930428b00.css"
+    integrity="sha256-c8z98o31VeEQCcE8IM7QZ688sCFQTLpDZExwWTBCiwA="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/fontawesome.min.137b1cf3cea9a8adb7884343a9a5ddddf4280f59153f74dc782fb7f7bf0d0519.css"
+    integrity="sha256-E3sc886pqK23iENDqaXd3fQoD1kVP3TceC&#43;3978NBRk="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/solid.min.e65dc5b48fb5f39b142360c57c3a215744c94e56c755c929cc3e88fe12aab4d3.css"
+    integrity="sha256-5l3FtI&#43;185sUI2DFfDohV0TJTlbHVckpzD6I/hKqtNM="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/regular.min.6f4f16d58da1c82c0c3a3436e021a3d39b4742f741192c546e73e947eacfd92f.css"
+    integrity="sha256-b08W1Y2hyCwMOjQ24CGj05tHQvdBGSxUbnPpR&#43;rP2S8="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link
+    rel="stylesheet"
+    href="/fontawesome/css/brands.min.e10425ad768bc98ff1fb272a0ac8420f9d1ba22f0612c08ff1010c95080ffe7e.css"
+    integrity="sha256-4QQlrXaLyY/x&#43;ycqCshCD50boi8GEsCP8QEMlQgP/n4="
+    crossorigin="anonymous"
+    type="text/css"
+  />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
+
+  <link rel="canonical" href="http://localhost:56240/english/post/javascript_beginner_notebook/" />
+
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/anatole-header.min.f9132794301a01ff16550ed66763482bd848f62243d278f5e550229a158bfd32.js"
+    integrity="sha256-&#43;RMnlDAaAf8WVQ7WZ2NIK9hI9iJD0nj15VAimhWL/TI="
+    crossorigin="anonymous"
+  ></script>
+
+  
+    
+    
+    <script
+      type="text/javascript"
+      src="/js/anatole-theme-switcher.min.d6d329d93844b162e8bed1e915619625ca91687952177552b9b3e211014a2957.js"
+      integrity="sha256-1tMp2ThEsWLovtHpFWGWJcqRaHlSF3VSubPiEQFKKVc="
+      crossorigin="anonymous"
+    ></script>
+  
+
+  
+
+  
+
+
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:56240/images/site-feature-image.png">
+  <meta name="twitter:title" content="Notebook for JavaScript">
+  <meta name="twitter:description" content="JavaScript Notebook
+Table of Contents Table of Contents Introduction Setting Up Environment Hello, World! Variables &amp; Data Types Operators Control Flow If / Else Loops Functions Arrays Objects DOM Manipulation Introduction JavaScript is a versatile, beginner-friendly language used for web development, server-side scripting, and more. In this notebook, you’ll learn core concepts and write your first lines of JavaScript.">
+
+
+
+  
+  <meta property="og:url" content="http://localhost:56240/english/post/javascript_beginner_notebook/">
+  <meta property="og:site_name" content="My blog">
+  <meta property="og:title" content="Notebook for JavaScript">
+  <meta property="og:description" content="JavaScript Notebook
+Table of Contents Table of Contents Introduction Setting Up Environment Hello, World! Variables &amp; Data Types Operators Control Flow If / Else Loops Functions Arrays Objects DOM Manipulation Introduction JavaScript is a versatile, beginner-friendly language used for web development, server-side scripting, and more. In this notebook, you’ll learn core concepts and write your first lines of JavaScript.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="english">
+    <meta property="article:published_time" content="2021-01-11T00:00:00+00:00">
+    <meta property="article:modified_time" content="2021-01-11T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:56240/images/site-feature-image.png">
+
+
+
+  
+  
+  
+  
+  <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "articleSection": "english",
+        "name": "Notebook for JavaScript",
+        "headline": "Notebook for JavaScript",
+        "alternativeHeadline": "",
+        "description": "
+      
+        \u003cp\u003e\u003cstrong\u003eJavaScript Notebook\u003c\/strong\u003e\u003c\/p\u003e\n\u003chr\u003e\n\u003ch2 id=\u0022table-of-contents\u0022\u003eTable of Contents\u003c\/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#table-of-contents\u0022\u003eTable of Contents\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#introduction\u0022\u003eIntroduction\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#setting-up-environment\u0022\u003eSetting Up Environment\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#hello-world\u0022\u003eHello, World!\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#variables--data-types\u0022\u003eVariables \u0026amp; Data Types\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#operators\u0022\u003eOperators\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#control-flow\u0022\u003eControl Flow\u003c\/a\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#if--else\u0022\u003eIf \/ Else\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#loops\u0022\u003eLoops\u003c\/a\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#functions\u0022\u003eFunctions\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#arrays\u0022\u003eArrays\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#objects\u0022\u003eObjects\u003c\/a\u003e\u003c\/li\u003e\n\u003cli\u003e\u003ca href=\u0022\/english\/post\/javascript_beginner_notebook\/#dom-manipulation\u0022\u003eDOM Manipulation\u003c\/a\u003e\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003chr\u003e\n\u003ch2 id=\u0022introduction\u0022\u003eIntroduction\u003c\/h2\u003e\n\u003cp\u003eJavaScript is a versatile, beginner-friendly language used for web development, server-side scripting, and more. In this notebook, you\u0026rsquo;ll learn core concepts and write your first lines of JavaScript.\u003c\/p\u003e
+
+
+      
+
+
+    ",
+        "inLanguage": "en",
+        "isFamilyFriendly": "true",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http:\/\/localhost:56240\/english\/post\/javascript_beginner_notebook\/"
+        },
+        "author" : {
+            "@type": "Person",
+            "name": "Sherrill Z"
+        },
+        "creator" : {
+            "@type": "Person",
+            "name": "Sherrill Z"
+        },
+        "accountablePerson" : {
+            "@type": "Person",
+            "name": "Sherrill Z"
+        },
+        "copyrightHolder" : {
+            "@type": "Person",
+            "name": "Sherrill Z"
+        },
+        "copyrightYear" : "2021",
+        "dateCreated": "2021-01-11T00:00:00.00Z",
+        "datePublished": "2021-01-11T00:00:00.00Z",
+        "dateModified": "2021-01-11T00:00:00.00Z",
+        "publisher":{
+            "@type":"Organization",
+            "name": "Sherrill Z",
+            "url": "http://localhost:56240/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http:\/\/localhost:56240\/favicons\/favicon-32x32.png",
+                "width":"32",
+                "height":"32"
+            }
+        },
+        "image": 
+      [
+        
+        "http://localhost:56240/images/site-feature-image.png"
+
+
+      
+      ]
+
+    ,
+        "url" : "http:\/\/localhost:56240\/english\/post\/javascript_beginner_notebook\/",
+        "wordCount" : "431",
+        "genre" : [ ],
+        "keywords" : [ ]
+    }
+  </script>
+
+
+</head>
+<body class="body">
+    <div class="wrapper">
+      <aside
+        
+          class="wrapper__sidebar"
+        
+      ><div
+  class="sidebar
+    animated fadeInDown
+  "
+>
+  <div class="sidebar__content">
+    <div class="sidebar__introduction">
+      <img
+        class="sidebar__introduction-profileimage"
+        src="/images/profile1.jpg"
+        alt="profile picture"
+      />
+      
+        <div class="sidebar__introduction-title">
+          <a href="/">This is Sherrill Zhang</a>
+        </div>
+      
+      <div class="sidebar__introduction-description">
+        <p>Data Analytics/Scientist/Business intelligence full-time</p>
+      </div>
+    </div>
+    <ul class="sidebar__list">
+      
+        <li class="sidebar__list-item">
+          <a
+            href="https://www.linkedin.com/feed/"
+            target="_blank"
+            rel="noopener me"
+            aria-label="Linkedin"
+            title="Linkedin"
+          >
+            <i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+        <li class="sidebar__list-item">
+          <a
+            href="mailto:sherrillzhang12@gmail.com"
+            target="_blank"
+            rel="noopener me"
+            aria-label="e-mail"
+            title="e-mail"
+          >
+            <i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      
+    </ul>
+  </div><footer class="footer footer__sidebar">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Sherrill Z
+        2025
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          imprint
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></div>
+</aside>
+      <main
+        
+          class="wrapper__main"
+        
+      >
+        <header class="header"><div
+  class="
+    animated fadeInDown
+  "
+>
+  <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+    <span aria-hidden="true" class="navbar-burger__line"></span>
+  </a>
+  <nav class="nav">
+    <ul class="nav__list" id="navMenu">
+      
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/"
+              
+              title=""
+              >Home</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/post/"
+              
+              title=""
+              >Posts</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/portfolio/"
+              
+              title=""
+              >Projects</a
+            >
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/about/"
+              
+              title=""
+              >About</a
+            >
+          </li>
+        
+
+      
+        
+        
+
+          <li class="nav__list-item">
+            <div class="optionswitch">
+              <input class="optionswitch__picker" type="checkbox" id="4" hidden />
+
+              
+              
+                
+
+              
+
+
+              <label class="optionswitch__label" for="4"
+                >Accomplishments <i class="fa fa-angle-down" aria-hidden="true"></i
+              ></label>
+
+              <div class="optionswitch__triangle"></div>
+              <ul class="optionswitch__list">
+                
+                  <li class="optionswitch__list-item">
+                    
+                    <a
+                      href="/certifications/"
+                      
+                      title=""
+                      >Certifications</a
+                    >
+                  </li>
+                
+              </ul>
+            </div>
+          </li>
+        
+
+      
+        
+        
+          <li class="nav__list-item">
+            
+            <a
+              
+              href="/contact/"
+              
+              title=""
+              >Contact</a
+            >
+          </li>
+        
+
+      
+    </ul>
+    <ul class="nav__list nav__list--end">
+      
+      
+        <li class="nav__list-item">
+          <div class="themeswitch">
+            <a title="Switch Theme">
+              <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a>
+          </div>
+        </li>
+      
+    </ul>
+  </nav>
+</div>
+</header>
+  <div
+    class="post 
+      animated fadeInDown
+    "
+  >
+    
+      <div class="post__thumbnail-wrapper">
+        <img class="post__thumbnail" src="/images/banner1.png" alt="Thumbnail image" />
+      </div>
+    
+    <div class="post__content">
+      
+        <h1>Notebook for JavaScript</h1>
+      
+      <p><strong>JavaScript Notebook</strong></p>
+<hr>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="/english/post/javascript_beginner_notebook/#table-of-contents">Table of Contents</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#introduction">Introduction</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#setting-up-environment">Setting Up Environment</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#hello-world">Hello, World!</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#variables--data-types">Variables &amp; Data Types</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#operators">Operators</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#control-flow">Control Flow</a>
+<ul>
+<li><a href="/english/post/javascript_beginner_notebook/#if--else">If / Else</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#loops">Loops</a></li>
+</ul>
+</li>
+<li><a href="/english/post/javascript_beginner_notebook/#functions">Functions</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#arrays">Arrays</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#objects">Objects</a></li>
+<li><a href="/english/post/javascript_beginner_notebook/#dom-manipulation">DOM Manipulation</a></li>
+</ul>
+<hr>
+<h2 id="introduction">Introduction</h2>
+<p>JavaScript is a versatile, beginner-friendly language used for web development, server-side scripting, and more. In this notebook, you&rsquo;ll learn core concepts and write your first lines of JavaScript.</p>
+<hr>
+<h2 id="setting-up-environment">Setting Up Environment</h2>
+<ol>
+<li><strong>Web Browser</strong>: Modern browsers (Chrome, Firefox, Edge) include a JavaScript console.</li>
+<li><strong>Code Editor</strong>: Install VS Code, Sublime Text, or another editor.</li>
+<li><strong>Live Server</strong> <em>(optional)</em>: VS Code extension to preview HTML/JS.</li>
+</ol>
+<p>Create a new folder:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">mkdir js-notebook
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> js-notebook
+</span></span></code></pre></div><p>Inside, create an <code>index.html</code> and a <code>script.js</code>.</p>
+<p><strong>index.html</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">html</span> <span class="na">lang</span><span class="o">=</span><span class="s">&#34;en&#34;</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">meta</span> <span class="na">charset</span><span class="o">=</span><span class="s">&#34;UTF-8&#34;</span> <span class="p">/&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">title</span><span class="p">&gt;</span>JS Notebook<span class="p">&lt;/</span><span class="nt">title</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">head</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">h1</span><span class="p">&gt;</span>JavaScript Beginner Notebook<span class="p">&lt;/</span><span class="nt">h1</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">script</span> <span class="na">src</span><span class="o">=</span><span class="s">&#34;script.js&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">body</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;/</span><span class="nt">html</span><span class="p">&gt;</span>
+</span></span></code></pre></div><hr>
+<h2 id="hello-world">Hello, World!</h2>
+<p>Open <code>script.js</code> and add:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Hello, World!&#39;</span><span class="p">);</span>
+</span></span></code></pre></div><ol>
+<li>Open your browser’s console (F12 or Ctrl+Shift+I).</li>
+<li>Refresh the page. You should see <strong>Hello, World!</strong> logged.</li>
+</ol>
+<hr>
+<h2 id="variables--data-types">Variables &amp; Data Types</h2>
+<p>JavaScript variables store values. Use <code>let</code>, <code>const</code>, or <code>var</code> (avoid <code>var</code> in modern code).</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">name</span> <span class="o">=</span> <span class="s1">&#39;Alice&#39;</span><span class="p">;</span>       <span class="c1">// string
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kr">const</span> <span class="nx">age</span> <span class="o">=</span> <span class="mi">30</span><span class="p">;</span>           <span class="c1">// number
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">let</span> <span class="nx">isStudent</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>    <span class="c1">// boolean
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">let</span> <span class="nx">score</span><span class="p">;</span>                <span class="c1">// undefined
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">let</span> <span class="nx">value</span> <span class="o">=</span> <span class="kc">null</span><span class="p">;</span>         <span class="c1">// null
+</span></span></span></code></pre></div><p>Try changing values and logging:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">name</span><span class="p">,</span> <span class="nx">age</span><span class="p">,</span> <span class="nx">isStudent</span><span class="p">);</span>
+</span></span></code></pre></div><hr>
+<h2 id="operators">Operators</h2>
+<ul>
+<li><strong>Arithmetic</strong>: <code>+</code>, <code>-</code>, <code>*</code>, <code>/</code>, <code>%</code></li>
+<li><strong>Assignment</strong>: <code>=</code>, <code>+=</code>, <code>-=</code></li>
+<li><strong>Comparison</strong>: <code>==</code>, <code>!=</code>, <code>===</code>, <code>!==</code>, <code>&lt;</code>, <code>&gt;</code></li>
+<li><strong>Logical</strong>: <code>&amp;&amp;</code>, <code>||</code>, <code>!</code></li>
+</ul>
+<p>Example:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">x</span> <span class="o">=</span> <span class="mi">10</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">x</span> <span class="o">+=</span> <span class="mi">5</span><span class="p">;</span>        <span class="c1">// x = 15
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">x</span> <span class="o">&gt;</span> <span class="mi">10</span> <span class="o">&amp;&amp;</span> <span class="nx">x</span> <span class="o">&lt;</span> <span class="mi">20</span><span class="p">);</span> <span class="c1">// true
+</span></span></span></code></pre></div><hr>
+<h2 id="control-flow">Control Flow</h2>
+<h3 id="if--else">If / Else</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">temperature</span> <span class="o">=</span> <span class="mi">75</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="p">(</span><span class="nx">temperature</span> <span class="o">&gt;</span> <span class="mi">80</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Hot&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="nx">temperature</span> <span class="o">&lt;</span> <span class="mi">60</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Cold&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;Comfortable&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><h3 id="loops">Loops</h3>
+<ul>
+<li><strong>for</strong>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">i</span> <span class="o">&lt;</span> <span class="mi">5</span><span class="p">;</span> <span class="nx">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">i</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div></li>
+<li><strong>while</strong>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">count</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="k">while</span> <span class="p">(</span><span class="nx">count</span> <span class="o">&lt;</span> <span class="mi">3</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">count</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">count</span><span class="o">++</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div></li>
+</ul>
+<hr>
+<h2 id="functions">Functions</h2>
+<p>Define reusable code blocks.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">function</span> <span class="nx">greet</span><span class="p">(</span><span class="nx">person</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="k">return</span> <span class="sb">`Hello, </span><span class="si">${</span><span class="nx">person</span><span class="si">}</span><span class="sb">!`</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">greet</span><span class="p">(</span><span class="s1">&#39;Bob&#39;</span><span class="p">));</span> <span class="c1">// Hello, Bob!
+</span></span></span></code></pre></div><p>Arrow functions (ES6):</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">add</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="nx">a</span> <span class="o">+</span> <span class="nx">b</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">add</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">));</span> <span class="c1">// 5
+</span></span></span></code></pre></div><hr>
+<h2 id="arrays">Arrays</h2>
+<p>Store lists of values.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">colors</span> <span class="o">=</span> <span class="p">[</span><span class="s1">&#39;red&#39;</span><span class="p">,</span> <span class="s1">&#39;green&#39;</span><span class="p">,</span> <span class="s1">&#39;blue&#39;</span><span class="p">];</span>
+</span></span><span class="line"><span class="cl"><span class="nx">colors</span><span class="p">.</span><span class="nx">push</span><span class="p">(</span><span class="s1">&#39;yellow&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">colors</span><span class="p">[</span><span class="mi">2</span><span class="p">]);</span> <span class="c1">// blue
+</span></span></span></code></pre></div><p>Common methods: <code>push</code>, <code>pop</code>, <code>shift</code>, <code>unshift</code>, <code>forEach</code>.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="nx">colors</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="nx">c</span> <span class="p">=&gt;</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">c</span><span class="p">));</span>
+</span></span></code></pre></div><hr>
+<h2 id="objects">Objects</h2>
+<p>Key-value pairs for structured data.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kd">let</span> <span class="nx">person</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Charlie&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">age</span><span class="o">:</span> <span class="mi">25</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">hobbies</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;reading&#39;</span><span class="p">,</span> <span class="s1">&#39;gaming&#39;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="p">};</span>
+</span></span><span class="line"><span class="cl"><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">person</span><span class="p">.</span><span class="nx">name</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="nx">person</span><span class="p">.</span><span class="nx">job</span> <span class="o">=</span> <span class="s1">&#39;Developer&#39;</span><span class="p">;</span>
+</span></span></code></pre></div><p>Loop through keys:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">key</span> <span class="k">in</span> <span class="nx">person</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">key</span><span class="p">,</span> <span class="nx">person</span><span class="p">[</span><span class="nx">key</span><span class="p">]);</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><hr>
+<h2 id="dom-manipulation">DOM Manipulation</h2>
+<p>Interact with the page content.</p>
+<p>In <code>index.html</code>, add:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">button</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;btn&#34;</span><span class="p">&gt;</span>Click me<span class="p">&lt;/</span><span class="nt">button</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="p">&lt;</span><span class="nt">p</span> <span class="na">id</span><span class="o">=</span><span class="s">&#34;message&#34;</span><span class="p">&gt;&lt;/</span><span class="nt">p</span><span class="p">&gt;</span>
+</span></span></code></pre></div><p>In <code>script.js</code>:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-js" data-lang="js"><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">btn</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;btn&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl"><span class="kr">const</span> <span class="nx">msg</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s1">&#39;message&#39;</span><span class="p">);</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nx">btn</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="p">()</span> <span class="p">=&gt;</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">  <span class="nx">msg</span><span class="p">.</span><span class="nx">textContent</span> <span class="o">=</span> <span class="s1">&#39;Button clicked!&#39;</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl"><span class="p">});</span>
+</span></span></code></pre></div><hr>
+<p>Happy coding! 🎉</p>
+</div>
+    <div class="post__footer">
+      
+
+      
+    </div>
+
+    
+  </div>
+
+      </main>
+    </div><footer class="footer footer__base">
+  <ul class="footer__list">
+    <li class="footer__item">
+      &copy;
+      
+        Sherrill Z
+        2025
+      
+    </li>
+    
+      <li class="footer__item">
+        <a
+          class="link"
+          href="/imprint/"
+          
+          title=""
+        >
+          imprint
+        </a>
+      </li>
+    
+  </ul>
+</footer>
+  
+  <script
+    type="text/javascript"
+    src="/js/medium-zoom.min.1248fa75275e5ef0cbef27e8c1e27dc507c445ae3a2c7d2ed0be0809555dac64.js"
+    integrity="sha256-Ekj6dSdeXvDL7yfoweJ9xQfERa46LH0u0L4ICVVdrGQ="
+    crossorigin="anonymous"
+  ></script></body>
+</html>

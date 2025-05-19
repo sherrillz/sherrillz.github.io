@@ -2,193 +2,199 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53341/english/</loc>
+    <loc>http://localhost:56240/english/</loc>
     <lastmod>2024-11-04T11:58:53-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:53341/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="http://localhost:53341/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:53341/"
-                />
-  </url><url>
-    <loc>http://localhost:53341/tags/index/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/english/post/how_to_git/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/post/how_to_git/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/tags/notes/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/english/post/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/post/</loc>
-    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:53341/tags/</loc>
+    <loc>http://localhost:56240/</loc>
     <lastmod>2024-11-04T11:58:53-08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:53341/zh-cn/tags/"
+                href="http://localhost:56240/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:53341/cn/tags/"
+                href="http://localhost:56240/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53341/tags/"
+                href="http://localhost:56240/"
                 />
   </url><url>
-    <loc>http://localhost:53341/english/post/learn_html/</loc>
+    <loc>http://localhost:56240/tags/index/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/english/post/how_to_git/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/post/how_to_git/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/tags/notes/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/english/post/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/post/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/tags/</loc>
+    <lastmod>2024-11-04T11:58:53-08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:56240/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://localhost:56240/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:56240/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:56240/english/post/learn_html/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/learn_html/</loc>
+    <loc>http://localhost:56240/post/learn_html/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/tags/thumbnail/</loc>
+    <loc>http://localhost:56240/tags/thumbnail/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/post/markdown-style-book/</loc>
+    <loc>http://localhost:56240/english/post/markdown-style-book/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/markdown-style-book/</loc>
+    <loc>http://localhost:56240/post/markdown-style-book/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
+    <loc>http://localhost:56240/english/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
     <lastmod>2022-12-08T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
+    <loc>http://localhost:56240/post/excel-sql-tableau-development-of-an-online-restaurant-recommendations-model/</loc>
     <lastmod>2022-12-08T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/awards/</loc>
+    <loc>http://localhost:56240/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/awards/</loc>
+    <loc>http://localhost:56240/english/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/certifications/</loc>
+    <loc>http://localhost:56240/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/certifications/</loc>
+    <loc>http://localhost:56240/english/certifications/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
+    <loc>http://localhost:56240/english/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
     <lastmod>2021-12-10T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
+    <loc>http://localhost:56240/post/r-regression-analysis-of-sales-data-regarding-promotional-programs/</loc>
     <lastmod>2021-12-10T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/post/tableau-team-project-of-travel-data/</loc>
+    <loc>http://localhost:56240/english/post/tableau-team-project-of-travel-data/</loc>
     <lastmod>2021-12-07T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/tableau-team-project-of-travel-data/</loc>
+    <loc>http://localhost:56240/post/tableau-team-project-of-travel-data/</loc>
     <lastmod>2021-12-07T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
+    <loc>http://localhost:56240/english/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
     <lastmod>2021-12-02T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
+    <loc>http://localhost:56240/post/python-descriptive-analytics-on-alumni-association-dataset/</loc>
     <lastmod>2021-12-02T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/about/</loc>
+    <loc>http://localhost:56240/about/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/about/</loc>
+    <loc>http://localhost:56240/english/about/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/</loc>
+    <loc>http://localhost:56240/english/post/javascript_beginner_notebook/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/post/javascript_beginner_notebook/</loc>
+    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:56240/arabic/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/archives/</loc>
+    <loc>http://localhost:56240/arabic/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/archives/</loc>
+    <loc>http://localhost:56240/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/archives/</loc>
+    <loc>http://localhost:56240/english/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/contact/</loc>
+    <loc>http://localhost:56240/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/contact/</loc>
+    <loc>http://localhost:56240/english/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/contact/</loc>
+    <loc>http://localhost:56240/arabic/contact/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/post/</loc>
+    <loc>http://localhost:56240/arabic/post/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
+    <loc>http://localhost:56240/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/post/arabic_example/</loc>
+    <loc>http://localhost:56240/arabic/post/arabic_example/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/arabic/about/</loc>
+    <loc>http://localhost:56240/arabic/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:53341/english/imprint/</loc>
+    <loc>http://localhost:56240/english/imprint/</loc>
   </url><url>
-    <loc>http://localhost:53341/imprint/</loc>
+    <loc>http://localhost:56240/imprint/</loc>
   </url><url>
-    <loc>http://localhost:53341/categories/</loc>
+    <loc>http://localhost:56240/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:53341/zh-cn/categories/"
+                href="http://localhost:56240/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:53341/cn/categories/"
+                href="http://localhost:56240/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53341/categories/"
+                href="http://localhost:56240/categories/"
                 />
   </url><url>
-    <loc>http://localhost:53341/english/portfolio/</loc>
+    <loc>http://localhost:56240/english/portfolio/</loc>
   </url><url>
-    <loc>http://localhost:53341/portfolio/</loc>
+    <loc>http://localhost:56240/portfolio/</loc>
   </url><url>
-    <loc>http://localhost:53341/series/</loc>
+    <loc>http://localhost:56240/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:53341/zh-cn/series/"
+                href="http://localhost:56240/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="http://localhost:53341/cn/series/"
+                href="http://localhost:56240/cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:53341/series/"
+                href="http://localhost:56240/series/"
                 />
   </url>
 </urlset>
